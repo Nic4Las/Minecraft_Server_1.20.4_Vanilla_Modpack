@@ -1,0 +1,13 @@
+name = "Unruled API"
+filename = "unruled_api-fabric+1.21.4-0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZ0PWFaa/versions/HxioJpD5/unruled_api-fabric%2B1.21.4-0.6.jar"
+hash-format = "sha512"
+hash = "97870ae39c229eadc3b04e5d1d287ca00731ab2c10c7de8b57dbd919ba303e794fd95b02390124ffaa491d601a024be79be938204e99c8593f7edc88f5822214"
+
+[update]
+[update.modrinth]
+mod-id = "pZ0PWFaa"
+version = "HxioJpD5"

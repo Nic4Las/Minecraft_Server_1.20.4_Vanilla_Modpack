@@ -1,0 +1,281 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "ecbb77d72d594d94ec0250467eaccc5d8698e00c710fa43b0703e3b3ca6b58ce"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "0f02a94df6c8c9154c0e2073a19a7791c41d02356035f50a76eaded7a02592ef"
+metafile = true
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "4f82da776d581fe3557524a40e9d8fd5d2b76b8e05a10c795461c554d56a521b"
+metafile = true
+
+[[files]]
+file = "mods/bettermaps.pw.toml"
+hash = "6232fd2df76a65d20b3242ec49076390c382a087cf8b109c536e4a9e0625b5ec"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "f0b75ae2e4267051bff34cd2380de6072013ab1f348f63512fbb2eedce7ef99d"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "04caaca613928c8d4e1d3015332a74a43be6ee0fd7693011d2aa91f56d13f768"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "f68ced147cfb20b0bce974411e42106d84557aefb10b77e31ae8ac771954edc1"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "9fd6ac115ea51594c5dc5d8d0cc3de8332b41dc97be39565ba4ea3fb22431d69"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "602078a29667a53759f23df6f7e9bd9a55711b9b15f7a7dc19e7d25b0c7ad1f2"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "2a209d22e07bc551f0c6d65b45cd33e3c38b20eac93059f1ebb647f9c9a05d1c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-replacement.pw.toml"
+hash = "fa7817c35e622533087cab33143a6864cbdbc2afca81e78cfeaa9577bfc5f458"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-end-castle-standalone.pw.toml"
+hash = "5d0bf53e3949c634e2783d8f208d2e5763374f9832a6af5272b1ce8adc525a2b"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-replacement.pw.toml"
+hash = "55f944a1db9297c9d6c39a9b77d2e70f51410fd28a665d17b6392e7868ddfd8c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "6bc8bdc838f6cf305cff5e41de4319f5a55f1c485443b8ddec5a8375867784a5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-replacement.pw.toml"
+hash = "f64ec346bb4a995ad72bd848463f14b90c1052f7855fc723fd926474b4e5ee6b"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "9b7a20b8fdb7dbb938f730a93922d2993115c96be2cd92d298d5b440d40bbb5e"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "cb293a383a8b0ea2ce0d85406a66e3eb7e52bddd4f00292037ad68d894ca2ec8"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "b44eb72039562bdb14acb5db3b077ce80efc9d5e3b7b28411878284c1161c7ef"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-replacement.pw.toml"
+hash = "e63b7d7427a5a9a8a2f4fe042f780a065a4b880fbb786242036cc08d9acb8f13"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "507d28a4fb6c81d55f61e2e8ba7976e047b4b376f93e61a67d6fc8f1c1206668"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-encore.pw.toml"
+hash = "f83e1bcd0e7c5f66748041356da208db145fe1706c96ac27cc3fc7d0ead4fba9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
+metafile = true
+
+[[files]]
+file = "mods/illager-expansion-polymer.pw.toml"
+hash = "a3ea805f60b15df07e3603f801f4fbadb7b44afba538a084209663c8f51749a6"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
+metafile = true
+
+[[files]]
+file = "mods/katters-structures.pw.toml"
+hash = "95a9eaf4614e513b5a27311d900cb0f8e61c6179ce8039df6593d2c1e6deeedf"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/litematica-server-paster.pw.toml"
+hash = "efd2f1360fd42830faf8937f4a0f249efc1654ba1d436aa61a1f86c903a9324a"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "780f22d956d790752ca7bae61c8aa9b32f87457e5fdc305069bdea72d3d37880"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "2a996c6a518b4585344b8e62f944eca16222beb91b1fd4ccf5e3487dc085f4ac"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ea1e5a4e9665cb3722d8a8f172698843d5832d352393c132290907d416485881"
+metafile = true
+
+[[files]]
+file = "mods/mcfc.pw.toml"
+hash = "aa6791d2d014d19a3e55117b89b285306922cc68cf178224a5789bb4d4be61c3"
+metafile = true
+
+[[files]]
+file = "mods/more-mobs.pw.toml"
+hash = "9e9ebd7c8e93fd92b7ec87cf6ce2152732c10aad6c52f657cf479a5514828931"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "6aaef9cd2511b7e1816bbdd0f5bf9d4bddfe7186faca8f102aac95cc3ebaceff"
+metafile = true
+
+[[files]]
+file = "mods/qraftys-end-villages.pw.toml"
+hash = "ca19b39ba8e93902b8350b04495cd12109d454ca76674d45778feefed16a4a11"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "57fafc5fc9f41249bf5c8eb11e7714098b3e8097119bb9768905e1cb6c722784"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "e57183a5e82c8c3c99cf188dd91cd3e88d45e5503a590abcd3fb3c9d71366dd5"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "d9000b7e95ff919fdec197234907726906a4646d8b673a63cf5a9193fc56313a"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a4b35e1ccae1898517580f8df3cf3fc353f48eb52487ed633767793acfe0cf14"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-polymer.pw.toml"
+hash = "378940a63b7d30a5552894bd78256d04fbe3830ab62fa93c0f2a823fc36f6941"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "82d8e33b003af7151efc71ad8baaaf0e3f6bda6ea71eca22d5664003849815fb"
+metafile = true
+
+[[files]]
+file = "mods/unruled-api.pw.toml"
+hash = "6651ab13d5679fd1763ad27540c2e334f7aa879903afa01d9159c25ad50ca94d"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "b59261452b61286cd8eab263e9f066d5d14c4cf8f99ec8142eab5df4da814ddd"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "f56ad7b04ceda0ea315f24d240f94b8167ed59049fc64ae632189aaee007ccbd"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "ecb7fa8604370c61b78f468fe934eb8a66974e3b14c028840e7ac73d560ea700"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e3384cdf4e1bd7f9869278ef734bd28ff942e1cebc18111ecc2004bc2ab15247"
+metafile = true

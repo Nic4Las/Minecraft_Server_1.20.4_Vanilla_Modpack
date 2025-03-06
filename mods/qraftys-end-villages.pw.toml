@@ -1,0 +1,13 @@
+name = "qrafty's End Villages"
+filename = "qraftys-end-villages-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NFlNaUBA/versions/mF2RnE4V/qraftys-end-villages-3.1.jar"
+hash-format = "sha512"
+hash = "5e7537bbe8cc36f3369dc7e65e3e986c4b782dbe914a2d1a9e7d79c09be0efa9b2ced69d258f04728418e22d80841a6f69b7e6e1ec561c998681a480df84224d"
+
+[update]
+[update.modrinth]
+mod-id = "NFlNaUBA"
+version = "mF2RnE4V"

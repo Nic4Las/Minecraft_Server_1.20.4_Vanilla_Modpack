@@ -1,0 +1,13 @@
+name = "Minecraft Server 1 . 20 . 4 Vanilla Modpack"
+author = "Nic4Las"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "16b3f1a238e11a38ea9ed494b8dbea420df26829d936840ae6ca57416c861bf6"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
