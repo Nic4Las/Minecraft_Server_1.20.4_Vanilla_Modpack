@@ -131,11 +131,6 @@ hash = "507d28a4fb6c81d55f61e2e8ba7976e047b4b376f93e61a67d6fc8f1c1206668"
 metafile = true
 
 [[files]]
-file = "mods/enchantments-encore.pw.toml"
-hash = "f83e1bcd0e7c5f66748041356da208db145fe1706c96ac27cc3fc7d0ead4fba9"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
 metafile = true

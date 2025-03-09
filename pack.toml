@@ -1,12 +1,12 @@
-name = "Minecraft Server 1 . 20 . 4 Vanilla Modpack"
+name = "Minecraft Server 1.20.4 Vanilla Modpack"
 author = "Nic4Las"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cc8b15bad23e2068716a0115aaa5ea3ff45242cb13738d0a5702d2eda75025ba"
+hash = "092733e51ca0f800356f3222a2297f0ef6ef395a757ceef09fa0d16aa8a17814"
 
 [versions]
 fabric = "0.16.10"
